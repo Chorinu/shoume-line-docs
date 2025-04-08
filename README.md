@@ -5,10 +5,11 @@ This repository contains technical documentation for the shoUme LINE messaging f
 ## Contents
 
 - [LINE Messaging Specification](docs/specifications/line-messaging.md)
+- [LINE Messaging Implementation Guide](docs/implementation/line-messaging-implementation.md)
 
 ## Purpose
 
-This documentation provides detailed technical specifications for developers implementing or working with the shoUme LINE messaging integration.
+This documentation provides detailed technical specifications and implementation guidelines for developers working with the shoUme LINE messaging integration.
 
 ## Contributing
 
